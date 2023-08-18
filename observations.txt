@@ -1,0 +1,32 @@
+/* SHIV KIRAN BAGATHI
+	15 PUZZLE OBSERVATIONS
+*/
+
+->Learnt how to add proper header file for proper function of fltk program
+->How to create a random_num function for random number generation
+->Created class MyButton and stored all buttons as arrays
+->Learnt how to convert int to string
+->Used FL_PUSH for noting down click at the button
+->Found if the click near the empty buttom and if it is, then interchanged the button which is clicked 
+to empty button
+->Added different colors for ease of identification.
+->Created global variables to access in between functions
+->Used handle function for overiding the buttons
+->Used change_label_of function to change label of button when clicked near to empty button
+->Learnt how to create button or a collection of date in arrays.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
